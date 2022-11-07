@@ -1,5 +1,7 @@
-# certificate-on-datascience
+# Certificate on Datascience
 This is my certificate on a Data Science course.
+
+![Certificate of Completion](https://user-images.githubusercontent.com/117583138/200219649-ed8e28ef-4f73-4e98-b3f6-93b2b48e5fb1.jpg)
 
 The course is held by Habiskerja.com an online learning platform that offers various subject to study. The course I took is called a course of Data Science on Python. This covers the following subjects:
 * 1. Pengenalan Data Scientist
