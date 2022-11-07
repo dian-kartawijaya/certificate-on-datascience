@@ -1,11 +1,7 @@
 # Certificate on Datascience
 This is my certificate on a Data Science course.
 
-![Certificate of Completion](https://user-images.githubusercontent.com/117583138/200219649-ed8e28ef-4f73-4e98-b3f6-93b2b48e5fb1.jpg)
-
-## Cara memasukkan gambar dengan menetapkan ukuran lebar tertentu:
-
-<img src="https://user-images.githubusercontent.com/117583138/200219649-ed8e28ef-4f73-4e98-b3f6-93b2b48e5fb1.jpg" width="600" />
+<img src="https://github.com/dian-kartawijaya/certificate-on-datascience/blob/main/photo_2022-11-07_08-39-48.jpg" width="500" />
 
 The course is held by Habiskerja.com an online learning platform that offers various subject to study. The course I took is called a course of Data Science on Python. This covers the following subjects:
 1. Pengenalan Data Scientist
